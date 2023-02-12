@@ -1,3 +1,6 @@
+@extends('layouts.main')
+
+@section('container')
 
 <section class="container bg-white">
     <div class="mx-auto mb-4 max-w-screen-xl py-8">
@@ -122,3 +125,5 @@
         </div>
     </div>
 </section>
+
+@endsection
