@@ -94,23 +94,23 @@
               <!-- Dropdown menu -->
               <div
                 id="dropdownNavbar"
-                class="z-10 hidden w-44 divide-y divide-gray-100 rounded-lg bg-white font-normal shadow dark:divide-gray-600 dark:bg-gray-700"
+                class="z-10 hidden w-44 divide-y divide-gray-100 rounded-lg bg-white font-normal shadow"
               >
                 <ul
-                  class="py-2 text-sm text-gray-700 dark:text-gray-400"
+                  class="py-2 text-sm text-gray-700"
                   aria-labelledby="dropdownLargeButton"
                 >
                   <li>
                     <a
-                      href="#"
-                      class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
+                      href="/struktur"
+                      class="block px-4 py-2 hover:bg-gray-100"
                       >Struktur Sekolah</a
                     >
                   </li>
                   <li>
                     <a
-                      href="#"
-                      class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
+                      href="/jadwal"
+                      class="block px-4 py-2 hover:bg-gray-100"
                       >Jadwal</a
                     >
                   </li>
@@ -119,21 +119,21 @@
             </li>
             <li>
               <a
-                href="#"
+                href="/fasilitas"
                 class="block rounded py-2 pl-3 pr-4 text-gray-700 hover:bg-gray-100 md:border-0 md:p-0 md:hover:bg-transparent md:hover:text-yellow-300"
                 >Fasilitas</a
               >
             </li>
             <li>
               <a
-                href="#"
+                href="/pengumuman"
                 class="block rounded py-2 pl-3 pr-4 text-gray-700 hover:bg-gray-100 md:border-0 md:p-0 md:hover:bg-transparent md:hover:text-yellow-300"
                 >Pengumaman</a
               >
             </li>
             <li>
               <a
-                href="#"
+                href="/kesiswaan"
                 class="block rounded py-2 pl-3 pr-4 text-gray-700 hover:bg-gray-100 md:border-0 md:p-0 md:hover:bg-transparent md:hover:text-yellow-300"
                 >Kesiswaan</a
               >
