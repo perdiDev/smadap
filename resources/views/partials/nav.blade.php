@@ -30,7 +30,7 @@
       <div
         class="container flex flex-wrap items-center justify-between md:px-6"
       >
-        <a href="#" class="flex items-center">
+        <a href="/" class="flex items-center">
           <span
             class="self-center whitespace-nowrap font-medium text-yellow-300"
             >Beranda</span
@@ -64,7 +64,7 @@
           >
             <li>
               <a
-                href="#"
+                href="/profile"
                 class="block rounded py-2 pl-3 pr-4 text-gray-700 hover:bg-gray-100 md:border-0 md:p-0 md:hover:bg-transparent md:hover:text-yellow-300"
                 aria-current="page"
                 >Profile</a
