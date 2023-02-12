@@ -65,10 +65,10 @@
           class="relative mx-auto max-w-3xl overflow-x-auto shadow-md sm:rounded-lg"
         >
           <table
-            class="w-full text-left text-sm text-gray-500 dark:text-gray-400"
+            class="w-full text-left text-sm text-gray-500"
           >
             <thead
-              class="bg-gray-50 text-xl uppercase text-gray-700 dark:bg-gray-700 dark:text-gray-400"
+              class="bg-gray-50 text-xl uppercase text-gray-700"
             >
               <tr>
                 <th scope="col" colspan="2" class="px-6 py-3">
@@ -78,45 +78,45 @@
             </thead>
             <tbody>
               <tr
-                class="border-b bg-white dark:border-gray-700 dark:bg-gray-800"
+                class="border-b bg-white"
               >
                 <td class="px-6 py-4">NPSN</td>
                 <th
                   scope="row"
-                  class="whitespace-nowrap px-6 py-4 font-medium text-gray-900 dark:text-white"
+                  class="whitespace-nowrap px-6 py-4 font-medium text-gray-900"
                 >
                   40300589
                 </th>
               </tr>
               <tr
-                class="border-b bg-white dark:border-gray-700 dark:bg-gray-800"
+                class="border-b bg-white"
               >
                 <td class="px-6 py-4">Alamat</td>
                 <th
                   scope="row"
-                  class="whitespace-nowrap px-6 py-4 font-medium text-gray-900 dark:text-white"
+                  class="whitespace-nowrap px-6 py-4 font-medium text-gray-900"
                 >
                   Jl. As. Dg. Kalebbu No. 2
                 </th>
               </tr>
               <tr
-                class="border-b bg-white dark:border-gray-700 dark:bg-gray-800"
+                class="border-b bg-white"
               >
                 <td class="px-6 py-4">Kecamatan</td>
                 <th
                   scope="row"
-                  class="whitespace-nowrap px-6 py-4 font-medium text-gray-900 dark:text-white"
+                  class="whitespace-nowrap px-6 py-4 font-medium text-gray-900"
                 >
                   Segeri
                 </th>
               </tr>
               <tr
-                class="border-b bg-white dark:border-gray-700 dark:bg-gray-800"
+                class="border-b bg-white"
               >
                 <td class="px-6 py-4">Email</td>
                 <th
                   scope="row"
-                  class="whitespace-nowrap px-6 py-4 font-medium text-gray-900 dark:text-white"
+                  class="whitespace-nowrap px-6 py-4 font-medium text-gray-900"
                 >
                   smanri40300589@yahoo.com
                 </th>

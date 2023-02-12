@@ -9,7 +9,7 @@
           <!-- Item 1 -->
           <div class="hidden duration-700 ease-in-out" data-carousel-item>
             <span
-              class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-2xl font-semibold text-white dark:text-gray-800 sm:text-3xl"
+              class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-2xl font-semibold text-white"
               >First Slide</span
             >
             <div
@@ -225,12 +225,12 @@
     <section id="sambutan" class="container">
       <div class="px-4 pt-24">
         <h2
-          class="mb-8 text-center text-3xl font-extrabold tracking-tight text-gray-900 dark:text-white lg:text-4xl"
+          class="mb-8 text-center text-3xl font-extrabold tracking-tight text-gray-900 lg:text-4xl"
         >
           Sambutan
         </h2>
         <div
-          class="flex w-full flex-col items-center bg-yellow-100 py-12 px-2 shadow-lg md:px-8"
+          class="flex w-full flex-col items-center bg-yellow-100 py-12 px-2 shadow-lg md:px-8 rounded-lg"
         >
           <div class="mb-6 md:mb-8">
             <img
@@ -315,7 +315,7 @@
                   src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/jese-leos.png"
                   alt="Jese Leos avatar"
                 />
-                <span class="font-medium dark:text-white"> Perdi S.Pd. </span>
+                <span class="font-medium"> Perdi S.Pd. </span>
               </div>
               <a
                 href="#"
@@ -365,7 +365,7 @@
                   src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/jese-leos.png"
                   alt="Jese Leos avatar"
                 />
-                <span class="font-medium dark:text-white"> Perdi S.Pd. </span>
+                <span class="font-medium"> Perdi S.Pd. </span>
               </div>
               <a
                 href="#"
@@ -395,7 +395,7 @@
       <div class="mx-auto max-w-screen-xl py-12 px-4 lg:py-16">
         <div class="mx-auto mb-8 max-w-screen-sm text-center lg:mb-16">
           <h2
-            class="mb-4 text-3xl font-extrabold tracking-tight text-gray-900 dark:text-white lg:text-4xl"
+            class="mb-4 text-3xl font-extrabold tracking-tight text-gray-900 lg:text-4xl"
           >
             Fasilitas
           </h2>
@@ -497,7 +497,7 @@
           <!-- text - start -->
           <div class="mb-10 md:mb-12">
             <h2
-              class="mb-4 text-center text-3xl font-extrabold tracking-tight text-gray-900 dark:text-white lg:text-4xl"
+              class="mb-4 text-center text-3xl font-extrabold tracking-tight text-gray-900 lg:text-4xl"
             >
               Kegiatan
             </h2>

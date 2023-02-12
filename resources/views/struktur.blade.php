@@ -6,7 +6,7 @@
 <section id="bagan" class="bg-yellow-100 py-16 md:py-20">
       <div class="container px-4 md:px-12">
         <h2
-          class="mb-8 text-center text-3xl font-extrabold tracking-tight text-gray-900 dark:text-white lg:text-4xl"
+          class="mb-8 text-center text-3xl font-extrabold tracking-tight text-gray-900 lg:text-4xl"
         >
           Bagan Struktur
         </h2>
@@ -26,7 +26,7 @@
     <section id="bagan" class="py-16 md:py-20">
       <div class="container px-4 md:px-12">
         <h2
-          class="mb-8 text-center text-3xl font-extrabold tracking-tight text-gray-900 dark:text-white lg:text-4xl"
+          class="mb-8 text-center text-3xl font-extrabold tracking-tight text-gray-900 lg:text-4xl"
         >
           Struktur Organisasi
         </h2>

@@ -5,7 +5,7 @@
 <section id="kesiswaan" class="container">
     <div class="space-y-12 pt-8 pb-16">
     <h2
-        class="mb-8 text-center text-3xl font-extrabold tracking-tight text-gray-900 dark:text-white lg:text-4xl"
+        class="mb-8 text-center text-3xl font-extrabold tracking-tight text-gray-900 lg:text-4xl"
     >
         Kesiswaan
     </h2>

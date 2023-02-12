@@ -52,7 +52,7 @@
                     src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/jese-leos.png"
                     alt="Jese Leos avatar"
                 />
-                <span class="font-medium dark:text-white"> Perdi S.Pd. </span>
+                <span class="font-medium"> Perdi S.Pd. </span>
                 </div>
                 <a
                 href="#"
@@ -100,7 +100,7 @@
                     src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/jese-leos.png"
                     alt="Jese Leos avatar"
                 />
-                <span class="font-medium dark:text-white"> Perdi S.Pd. </span>
+                <span class="font-medium"> Perdi S.Pd. </span>
                 </div>
                 <a
                 href="#"
